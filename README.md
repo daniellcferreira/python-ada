@@ -1,1 +1,0 @@
-# Curso Introdutorio de Python pela Ada
